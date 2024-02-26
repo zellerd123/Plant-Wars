@@ -4,9 +4,13 @@ Welcome to the official repository for "Plant Wars", a tower defense game. As a 
 
 **Game Features**
 **Multiplayer Component: (Pre-Dev)** Team up with friends or compete against them in strategic battles that require teamwork, foresight, and quick decision-making.
+
 **Endless Mode: (Pre-Dev)** Test your defenses to the limit with an endless mode, where the challenges keep coming. Powered by a binary AI tree, the game dynamically adjusts the difficulty, ensuring no two games are the same.
+
 **Level-based Progression:** Progress through various levels, each with its unique challenges and enemies. Overcome these obstacles to unlock new characters and abilities.
+
 **Expansive Character Roster:** A dozen unique characters have already been created, each with their own strengths and abilities. With hundreds more in development, the strategic possibilities are endless.
+
 **Development Status**
 "Plant Wars" is actively developing, with new features, characters, and game modes regularly added. The game is built with a focus on scalability, allowing for the continuous introduction of new content without compromising on performance or quality.
 
